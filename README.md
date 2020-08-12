@@ -1,0 +1,1 @@
+# faydan-core
